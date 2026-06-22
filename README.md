@@ -16,15 +16,15 @@ ETF data across SPY and QQQ.
 
 ## Files
 
-- `Research Paper.pdf` - research note (methods, formulas, results, limitations)
-- `code.py` - backtesting code and output generation
-- `equity curve.png` - equity curve plot used in the note
+- `volatility-targeting-report.pdf` - research note (methods, formulas, results, limitations)
+- `backtest.py` - backtesting code and output generation
+- `equity_curve.png` - equity curve plot used in the note
 
 ## How to run
 
 ​```bash
 pip install pandas numpy matplotlib yfinance
-python code.py
+python backtest.py
 ​```
 
 ## Limitations
