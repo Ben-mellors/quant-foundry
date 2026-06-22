@@ -22,9 +22,13 @@ ETF data across SPY and QQQ.
 
 ## How to run
 
-​
-pip install pandas numpy matplotlibyfinance
-python backtest.py
+Install dependencies:
+
+`pip install pandas numpy matplotlib yfinance`
+
+Run the backtest:
+
+`python backtest.py`
 ​
 
 ## Limitations
